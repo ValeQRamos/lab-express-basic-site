@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(30, 28, 28);
+  color: beige;
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
